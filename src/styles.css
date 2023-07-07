@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+.App {
+  font-family: "Kanit", sans-serif;
+  text-align: center;
+}
+body {
+  text-align: center;
+  background-color: wheat;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 3rem;
+  padding: 0.5rem 1rem;
+  margin-top: 3%;
+}
+label {
+  padding: 1.5rem;
+}
+input {
+  margin-top: 5%;
+  padding: 0.5rem;
+}
+.footer {
+  margin-top: 2%;
+}
+.msg {
+  margin-top: 2%;
+}
